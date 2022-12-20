@@ -15,3 +15,5 @@ Ultimately, the choice of optimization algorithm will depend on the specific req
 
 ## Ref 
 - https://en.wikipedia.org/wiki/Wireless_power_transfer
+- https://en.wikipedia.org/wiki/Inductive_coupling
+- 
