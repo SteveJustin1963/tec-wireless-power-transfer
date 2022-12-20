@@ -11,3 +11,7 @@ Genetic algorithms: Genetic algorithms are a type of optimization algorithm that
 Particle swarm optimization: Particle swarm optimization is a type of optimization algorithm that works by simulating the behavior of a swarm of particles moving through a search space. The algorithm adjusts the position of each particle based on the positions of other particles and a global best position. Particle swarm optimization can be effective for finding the optimal solution in complex, high-dimensional problems.
 
 Ultimately, the choice of optimization algorithm will depend on the specific requirements of the problem, including the complexity of the problem, the computational resources available, and the desired accuracy of the solution.
+
+
+## Ref 
+- https://en.wikipedia.org/wiki/Wireless_power_transfer
